@@ -1,0 +1,6 @@
+framework module Pods_LayerApp {
+  umbrella header "Pods-LayerApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
